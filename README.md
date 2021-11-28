@@ -7,4 +7,4 @@ I am working my way up towards a CS major. I enjoy working on Minecraft plugins 
 - MySQL
 
 #### Contact Me
-- Discord: Ambrosia#7777
+- Discord: Ambrosia#2838
