@@ -1,11 +1,12 @@
 ## Ambrosia
 - I enjoy working on open-source and random projects (mostly Minecraft stuff right now).
-- Planning on learning Go & HTML/CSS this year, hopefully sometime soon...<br />
+- Planning on learning HTML/CSS, TypeScript, and PHP this year, hopefully sometime soon...<br />
 
 ---
 
 #### Experience & Tools
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=81b0c6)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=81b0c6)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=81b0c6)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=81b0c6)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=81b0c6)
