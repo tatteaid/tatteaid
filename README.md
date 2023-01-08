@@ -1,6 +1,6 @@
 ## Ambrosia
 - I enjoy working on open-source and random projects (mostly Minecraft stuff right now).
-- Planning on learning HTML/CSS, TypeScript, and PHP this year, hopefully sometime soon...<br />
+- Planning on learning Rust as well as front/back-end development this year, hopefully sometime soon...<br />
 
 ---
 
