@@ -1,7 +1,9 @@
 ## Ambrosia
-- Java developer working on special Minecraft projects!
+- Software developer working on special Minecraft projects!
 - 8 years of Java experience and 1 year of C experience.
-- Proficient with the SpigotAPI & NMS.<br />
+- Proficient with the SpigotAPI & NMS.
+- Working with Minestom for big projects!
+- Roblox & Fortnite UGC games soon...<br />
 
 ---
 
